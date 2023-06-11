@@ -13,6 +13,6 @@ run-mvs, run-herc and run-3270 scripts will be installed in the `~/bin`
 Unneeded files (*linux, darwin, windows*) are not extracted from [tk4sys.zip](http://www.prince-webdesign.nl/images/downloads/tk4sys.zip)  
 
 Script assumes that X.Org is installed, that's why x3270  
-If running in vt only please `s/x3270/c3270/g`  
+If running in [vt(4)](https://man.freebsd.org/cgi/man.cgi?query=vt&sektion=4) only please `s/x3270/c3270/g`  
 
 install-msv.sh by [Vladimir Mišev](https://twitter.com/vmisev)  
