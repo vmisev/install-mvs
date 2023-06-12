@@ -4,7 +4,7 @@
 **SDL Hercules 390 hyperion and TK4- MVS on [FreeBSD](https://www.freebsd.org/)**   
 
 This scripts downloads, builds and installs [SDL Hercules 390 hyperion](https://github.com/SDL-Hercules-390/hyperion) using  
-[Hercules-Helper](https://github.com/wrljet/hercules-helper) by [Bill Lewis](mailto:bill@wrljet.com) and Jürgen Winkelsmann's [MVS 3.8j Tur(n)key 4- System](https://wotho.ethz.ch/tk4-/) (TK4-)  
+[Hercules-Helper](https://github.com/wrljet/hercules-helper) by [Bill Lewis](https://github.com/wrljet) and Jürgen Winkelsmann's [MVS 3.8j Tur(n)key 4- System](https://wotho.ethz.ch/tk4-/) (TK4-)  
 with updates by Rob Prins [(TK4ROB)](http://www.prince-webdesign.nl/index.php/software/update-on-mvs-turnkey-4)   
   
 
