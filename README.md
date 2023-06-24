@@ -15,4 +15,9 @@ Unneeded files (*linux, darwin, windows*) are not extracted from [tk4sys.zip](ht
 Script assumes that X.Org is installed, that's why x3270  
 If running in [vt(4)](https://man.freebsd.org/cgi/man.cgi?query=vt&sektion=4) only please `s/x3270/c3270/g`  
 
+Since [SDL Hercules 390 hyperion](https://github.com/SDL-Hercules-390/hyperion) is updated much more often than TK4-   
+there is also [rebuild-herc.sh](https://github.com/vmisev/install-mvs/blob/main/rebuild-herc.sh) script which will only rebuild Hercules and   
+leave all TK4- directories and configs unchanged.
+
+
 install-msv.sh by [Vladimir Mišev](https://twitter.com/vmisev)  
